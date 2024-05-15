@@ -1,7 +1,7 @@
-# LockBox
+# SecureBox
 ## File Securing system using Java ,MySQL ,JDBC , Java Mail API
 
-Lock Box is a Java-based file securing system employing MySQL JDBC for database connectivity, MVC design pattern, and Java Mail API for enhanced security. Responsibilities included backend development, role-based access control implementation. Achieved secure file handling and user authentication while ensuring scalability and maintainability.
+Secure Box is a Java-based file securing system employing MySQL JDBC for database connectivity, MVC design pattern, and Java Mail API for enhanced security. Responsibilities included backend development, role-based access control implementation. Achieved secure file handling and user authentication while ensuring scalability and maintainability.
 
 ## Overview
 Libraries Used
